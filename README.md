@@ -27,3 +27,4 @@ Edit the script and replace the `video_path` with your local file:
 ```python
 video_path = r"path\\to\\your\\video.mp4"
 summary = transcribe_and_summarize_video(video_path)
+
